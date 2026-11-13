@@ -1,0 +1,7 @@
+; ALBOZ MACRO update manifest
+; upload this file next to the exe named below
+version=1.0.0
+file=dragedit.exe
+size=337408
+sha256=38e593e82444c091c57bc04bcbbb505e3b1800c736c1f250beab0ebff4d208a0
+notes=license keys + faster pickup

@@ -1,0 +1,37 @@
+WHAT THIS FOLDER IS
+-------------------
+These are the three files the macro and the updater download. Upload them
+together, in the same folder, on any static host:
+
+  latest.txt     tells alboz_admin.exe which build is current
+  dragedit.exe   the macro itself
+  keys.txt       the list of valid license keys
+
+EASIEST FREE HOST: GITHUB (2 minutes)
+-------------------------------------
+1. Make a free account on github.com (if you do not have one).
+2. Create a new repository, mark it Public, tick "Add a README".
+3. In the repo: Add file -> Upload files -> drag these three files -> Commit.
+4. Open keys.txt -> Raw -> copy the address bar. It looks like
+   https://raw.githubusercontent.com/YOURNAME/REPO/main/keys.txt
+5. Open latest.txt -> Raw -> copy that address too.
+6. Put the keys.txt link in keys_url.txt next to build.bat, the latest.txt
+   link in alboz_admin.exe -> Source -> Update link, then run build.bat.
+
+Updating later:
+  - keys: edit keys.txt in the repo (pencil icon) and commit. Same link.
+  - build: publish with alboz_admin.exe, then upload latest.txt and
+    dragedit.exe over the old ones (same file names).
+
+IMPORTANT
+---------
+The links must open as plain text in a browser, with no login and no
+"download" interstitial. Discord, Google Drive and Dropbox links do not work.
+
+GitHub caches raw files for about 5 minutes, so wait a little after editing.
+
+AFTER YOU CHANGE keys_url.txt
+-----------------------------
+Run build.bat, then upload the new dragedit.exe and latest.txt from the
+project folder, not the copies in this folder. The files here are a snapshot
+from the build before the key link was set.

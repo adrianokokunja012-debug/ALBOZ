@@ -1,0 +1,3 @@
+# alboz keys - one per line, expiry is optional (YYYY-MM-DD)
+# dragedit.exe reads this file at launch.
+Q4PY-4736-VL5U-PR6Y=2026-12-13

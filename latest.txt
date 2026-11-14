@@ -1,7 +1,7 @@
 ; ALBOZ MACRO update manifest
 ; upload this file next to the exe named below
-version=0.0.6
+version=0.0.19
 file=dragedit.exe
-size=414208
-sha256=bf3549386070b53b0a3a1b1c1e0887581f057e663c643dbff13ed8aa150ae033
-notes=Drag Macro and Fast Pickup each have their own ON/OFF switch on their page. Fast pickup taps the second Interact key (H) while you hold MB5.
+size=417280
+sha256=8f496c95504c98552e73735e7cd7bd3ace386791cd3853adbcc0b9e98fbf33ca
+notes=Fixed the app not opening (a dead copy could keep the single-copy lock forever) and a sign-in that could sit on "Checking..." with no way out. It now times out after 15 seconds and offers a retry.

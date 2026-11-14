@@ -1,7 +1,7 @@
 ; ALBOZ MACRO update manifest
 ; upload this file next to the exe named below
-version=1.0.2
+version=1.0.3
 file=dragedit.exe
 size=409600
-sha256=783510e83ed6f3a5c05a4e17b80c862c6a3f52b2ca5da8bb7768cd4d59bfc75a
-notes=Hosted accounts: sign in / create account with email checks, admin ban and delete. One license key = one account and one PC; admin can reset a customer's PC.
+sha256=02a729d3e890a309d225243df8f16dbba5fe85016009f3ff4c89b160a1f9332e
+notes=One license key = one account and one PC. Admin can reset a customer's PC.

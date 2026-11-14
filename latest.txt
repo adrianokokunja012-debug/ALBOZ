@@ -2,6 +2,6 @@
 ; upload this file next to the exe named below
 version=1.0.2
 file=dragedit.exe
-size=401920
-sha256=e3a3550e6c6fd8902588d6f48e12c359c12e58b6eabf6f32b9d694055c88adec
-notes=Hosted accounts: sign in / create account with email checks, admin ban and delete.
+size=409600
+sha256=783510e83ed6f3a5c05a4e17b80c862c6a3f52b2ca5da8bb7768cd4d59bfc75a
+notes=Hosted accounts: sign in / create account with email checks, admin ban and delete. One license key = one account and one PC; admin can reset a customer's PC.

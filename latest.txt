@@ -1,7 +1,7 @@
 ; ALBOZ MACRO update manifest
 ; upload this file next to the exe named below
-version=1.0.3
+version=1.0.5
 file=dragedit.exe
-size=409600
-sha256=02a729d3e890a309d225243df8f16dbba5fe85016009f3ff4c89b160a1f9332e
-notes=One license key = one account and one PC. Admin can reset a customer's PC.
+size=410112
+sha256=06cd0f6140532a9b5aadd406aae33d355fb7c3378aec44d9126fe50bb6471611
+notes=Fast pickup now keeps collecting while you hold the button.

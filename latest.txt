@@ -1,7 +1,7 @@
 ; ALBOZ MACRO update manifest
 ; upload this file next to the exe named below
-version=0.0.1
+version=0.0.5
 file=dragedit.exe
-size=410112
-sha256=0c43f98dc17b133e576f41704b825cca190033cf748db821ef8a4494104cf166
-notes=First 0.0.x build: fast pickup keeps collecting while you hold the button.
+size=412160
+sha256=040cf2ad8c93a236e7860d900ae5a18942aa6e79023e1e54ca821cf77b18c227
+notes=Fast pickup now taps a second Interact key (H) while you hold MB5, at full frame rate. One-time setup: Fortnite > Settings > Keyboard > Interact secondary = H.

@@ -2,6 +2,6 @@
 ; upload this file next to the exe named below
 version=1.0.2
 file=dragedit.exe
-size=394752
-sha256=0be8751b835c3e530c7dc3ffc68452dc9b51ca76499b17eb42d440fb5f25c7cc
-notes=Hosted accounts: sign in / create account, admin ban and delete.
+size=401920
+sha256=8cc892e5df5542f8f560bcbdff7ea6c2d5ba4dd41bd2f6b4ac7c35d0687c860f
+notes=Hosted accounts: sign in / create account with email checks, admin ban and delete.
